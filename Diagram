@@ -1,0 +1,9 @@
+Mermaid Syntax Diagram
+```mermaid
+
+Flowchard TD
+A[[School Work]]-->|Write down assignments| B(write down due dates)
+B-->C{choose which class to start on}
+C-->|1/26| D[Info Sys Business Concepts]
+C-->|1/26| E[Operating Sys Concepts]
+C-->|1/24| F[Web, Pgm, Db Foundation]
